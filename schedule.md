@@ -101,8 +101,8 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 18</td>
-<td><a href="Lectures/ProjectIllustration.pdf">Project Illustration (Trig)</a></td>
-<td>Project Illustration</td>
+<td>NO LECTURE (BMES)</td>
+<td></td>
 </tr>
 
 <tr>
@@ -113,31 +113,31 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 25</td>
+<td><a href="Lectures/ProjectIllustration.pdf">Project Illustration (Trig)</a></td>
+<td>Project Illustration</td>
+</tr>
+
+<tr>
+<td>Tues Oct 30</td>
 <td><a href="Lectures/FeedbackCaptureGrid.pdf">Iterate Design Solutions</a></td>
 <td></td>
 </tr>
 
 <tr>
-<td>Tues Oct 30</td>
+<td>Thurs Nov 01</td>
 <td><a href="Lectures/SafetyHazards.pdf">Safety & Hazards</a></td>
 <td></td>
 </tr>
 
 <tr>
-<td>Thurs Nov 01</td>
+<td>Tues Nov 06</td>
 <td><a href="Lectures/Testing.pdf">Testing</a></td>
 <td></td>
 </tr>
 
 <tr>
-<td>Tues Nov 06</td>
-<td><a href="Lectures/Evaluation.pdf">Evaluation</a></td>
-<td></td>
-</tr>
-
-<tr>
 <td>Thurs Nov 08</td>
-<td></td>
+<td><a href="Lectures/Evaluation.pdf">Evaluation</a></td>
 <td></td>
 </tr>
 
