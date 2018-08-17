@@ -24,7 +24,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 04</td>
-<td><a href="Lectures/DesignExperimentDiscussion.pdf">Engineering Design</a></td>
+<td><a href="Lectures/DesignExperimentDiscussion.pdf">Engineering Design</a> & <a href="Lectures/DesignExperiment.pdf">Design Experiment</a></td>
 <td></td>
 </tr>
 
@@ -42,7 +42,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Sept 13</td>
-<td>FDA Clearance (OLV Guest Lecture)</td>
+<td>FDA Clearance (OLV Guest Lecture) / <a href="Lectures/Standards.pdf">Standards</a></td>
 <td></td>
 </tr>
 
@@ -77,7 +77,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 04</td>
-<td>Brainstorming Session</td>
+<td><a href="Lectures/Brainstorming.pdf">Brainstorming Session</a></td>
 <td>MedX RFA Applications Due</td>
 </tr>
 
@@ -89,7 +89,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 11</td>
-<td>The "Elevator Pitch" (I&E, Bill Walker)</td>
+<td>The "Elevator Pitch" (I&E, Bill Walker); <a href="Lectures/DecisionMaking-PughMatrix.pdf">Decision Making (Pugh Matrix)</a></td>
 <td></td>
 </tr>
 
