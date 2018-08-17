@@ -5,8 +5,8 @@ Dr. Mark Palmeri, M.D., Ph.D.
 <mark.palmeri@duke.edu>  
 Office Hours: TBD (258 Hudson Hall Annex)
 
-Dr. Eric Richardson, Ph.D.
-<eric.s.richardson@duke.edu>
+Dr. Eric Richardson, Ph.D.  
+<eric.s.richardson@duke.edu>  
 Office Hours: Day / Time TBD (XXX Hudson Hall Annex)
 
 Dr. Kevin Caves, M.E.  
@@ -30,7 +30,7 @@ Petek Sener
 Office Hours: Day / Time TBD (Location TBD)
 
 ## Lecture
-Tues/Thur 15:05--16:20
+Tues/Thur 15:05--16:20  
 All lecture content will be outlined in [Lectures](Lectures/).
 
 ## Course Overview & Outcomes
@@ -89,11 +89,6 @@ grade.
 There are no required textbooks for this class.  A variety of online resources
 will be referenced throughout the semester.  
 
-* [Python Resources](Resources/python.md)
-
-## Project Details
-Project details will be discussed in lecture throughout the semester.
-
 ## Grading
 The course GitHub repository will host all [Assignments](Assignments/).
 Due dates--including those that change--will be announced in lecture and by
@@ -110,8 +105,15 @@ The following grading scheme is subject to change as the semester progresses:
 <td>Midterm project deliverables</td>
 <td>35%</td>
 </tr>
-<td>Final project</td>
-<td>60%</td>
+
+<tr>
+<td>Oral presentations</td>
+<td>25%</td>
+</tr>
+
+<tr>
+<td>Final project prototype</td>
+<td>25%</td>
 </tr>
 </table>
 
@@ -119,51 +121,6 @@ The following grading scheme is subject to change as the semester progresses:
 The course schedule is very likely to change depending on progress throughout
 the semester.  The updated [schedule](schedule.md) will always be available in
 the GitHub course repository.  
-
-## Distributed Version Control Software (git)
-Software management is a ubiquitous tool in any engineering project, and this
-task becomes increasingly difficult during group development. Version control
-software has many benefits and uses in software development, including
-preservation of versions during the development process, the ability for
-multiple contributors and reviewers on a project, the ability to tag
-*Releases* of code, and the ability to branch code into different functional
-branches.  We will be using [GitHub](https://github.com) to centrally host our
-git repositories.  Specifically, we will be creating student teams in the [Duke
-BME Design](https://github.com/Duke-BME-Design) group.  Some guidelines
-for using your git repositories:
-
-* *All* software additions, modifications, bug-fixes, etc. need to be done in
-  your repository.
-* The *Issues* feature of your repository should be used as a "to do" list of
-  software-related items, including feature enhancements, and bugs that are
-  discovered.
-* There are several repository management models that we will review in class,
-  including branch-development models that need to be used throughout the
-  semester.
-* Instructors and teaching assistants will only review code that is committed
-  to your repository (no emailed code!).
-* All of the commits associated with your repository are logged with your name
-  and a timestamp, and these cannot be modified.  Use descriptive commit
-  messages so that your group members, instructors, and teaching assistants can
-  figure out what you have done!!  You should not need to email group members
-  when you have performed a commit; your commit message(s) should speak for
-  themselves.
-* Code milestones should be properly tagged.
-* Write software testing routines early in the development process so that
-  anyone in your group or an outsider reviewing your code can be convinced that
-  it is working as intended.
-* Modular, modular, modular.
-* Document!
-* Make commits small and logical; do them often!
-
-We will review working with git repositories in lecture, and feedback on your
-software repository will be provided on a regular basis.
-
-## Online Slack Channels
-We have online help through the [Duke Co-Lab
-Slack](https://dukecolab.slack.edu/) team.  We have started two specifics
-channels for this class: `#git` and `#python`.  Please add yourselves to these
-channels to get help from your instructors, your TAs and the Duke community!
 
 ## Duke Community Standard & Academic Honor
 Engineering is inherently a collaborative field, and in this class, you are
