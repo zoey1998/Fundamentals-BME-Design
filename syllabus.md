@@ -34,8 +34,7 @@ Tues/Thur 15:05--16:20
 All lecture content will be outlined in [Lectures](Lectures/).
 
 ## Course Overview & Outcomes
-The introduction of formal engineering design principles will be emphasized;
-overview of assistive technologies, patent issues, engineering ethics.
+The introduction of formal engineering design principles will be emphasized.
 Students are expected to identify and research a need drawn from Duke
 hospital/medical personnel, local companies and organizations around Duke
 University. Students will develop and determine design feasibility for a
@@ -64,11 +63,9 @@ and present oral/visual technical reports.
 
 ## Course Objectives
 * Statement of project goals
-* Introduction and background research
-* Clinical/FDA, ethical and IP project research
-* Standards
-* Safety analysis
-* Project Illustration
+* Introduction, background, and market research
+* Development of sound design specifications
+* Functional decomposition, concept generation and concept selection
 * Proof of feasibility (identification of evaluative testing)
 * First round prototype
 
@@ -102,17 +99,17 @@ The following grading scheme is subject to change as the semester progresses:
 <td>15%</td>
 </tr>
 <tr>
-<td>Midterm project deliverables</td>
+<td>Midterm project (Cycle 1) deliverables</td>
 <td>35%</td>
 </tr>
 
 <tr>
-<td>Oral presentations</td>
+<td>Oral presentations (Both Cycle 1 and 2)</td>
 <td>25%</td>
 </tr>
 
 <tr>
-<td>Final project prototype</td>
+<td>Final project prototype (Cycle 2)</td>
 <td>25%</td>
 </tr>
 </table>
