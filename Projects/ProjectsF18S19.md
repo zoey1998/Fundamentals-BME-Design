@@ -45,10 +45,6 @@ Improved depth of anesthesia monitor using muscle stimulation.
 
 Improvement of endoscopy ergonomics.
 
-## Gastroenterology (David Leiman, M.D.)
-
-Endoscope biopsy device.
-
 ## Surgery / Urologic Oncology (Dr. Ali Amin Sharifi, M.D.)
 
 Noninvasive medical system to measure the length of intramural ureter in
@@ -57,3 +53,11 @@ children.
 ## Neonatology (Dr. David Tanaka, M.D.)
 
 Pediatric transport vibration and noise monitor.
+
+## MicroElastic Ultrasound Systems (Dr. Peter Hollender, Ph.D.)
+
+Skin device coupling.
+
+## Surgery (Dr. Suresh Agrawal, M.D.)
+
+Chest tube placement and maintained placement / patency.
