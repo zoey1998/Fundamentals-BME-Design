@@ -74,4 +74,8 @@ Small-volume medical waste incineration.
 
 Analysis of intra-aural sounds for behavioral monitoring in geriatric patients.
 
+## Dermatology (Dr. Carlos Eduardo, M.D.)
+
+Mobile body scanning platfrom to track skin lesion evolution.
+
 
