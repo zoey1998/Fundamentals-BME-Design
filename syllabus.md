@@ -30,7 +30,7 @@ Petek Sener
 Office Hours: Day / Time TBD (Location TBD)
 
 ## Lecture & Lab
-Tues/Thur 15:05-16:20  
+Tues/Thur 11:45-13:00  
 All lecture content will be outlined in [Lectures](Lectures/).
 
 "Lab" time is Mon 16:40-17:40 at the [Chesterfield Design
