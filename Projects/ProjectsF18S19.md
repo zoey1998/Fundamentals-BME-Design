@@ -65,3 +65,13 @@ Chest tube placement and maintained placement / patency.
 ## GI Surgery (Dr. David Leiman, M.D.)
 
 Novel articulation of endoscopic surgical tools.
+
+## Global Health (Dr. Ana Ceclia Rodriguez, M.D.)
+
+Small-volume medical waste incineration.
+
+## Geriatrics (Sponsor TBD)
+
+Analysis of intra-aural sounds for behavioral monitoring in geriatric patients.
+
+
