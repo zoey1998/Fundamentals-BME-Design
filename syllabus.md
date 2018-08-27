@@ -33,8 +33,8 @@ Office Hours: Day / Time TBD (Location TBD)
 Tues/Thur 11:45-13:00  
 All lecture content will be outlined in [Lectures](Lectures/).
 
-"Lab" time is Mon 16:40-17:40 at the [Chesterfield Design
-Suite](chesterfield_design_suite.md).  In general, this time is allocated as
+"Lab" time is Mon 16:40-17:40 at the [Chesterfield Design Suite
+(5704)](chesterfield_design_suite.md).  In general, this time is allocated as
 protected project time for your team to utilize to collectively meet, meet with
 your TAs and clinical advisors, and will also be utilized for guest lectures
 and prototyping skill development sessions.

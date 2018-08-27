@@ -3,7 +3,7 @@
 ## Location & Access
 The BME medical device design course has a brand new design suite in the
 Chesterfield Building, directly across the street from Parker & Otis and
-Brightleaf Square.  This design suite is located on the 5th floor of the
+Brightleaf Square.  This design suite (5704) is located on the 5th floor of the
 building.  Exiting the main elevators behind the security desk entrance on the
 first floor from Main Street, the labs will be to your right when you exit the
 elevator corridor on the 5th floor.  The suite requires Duke Card access after
