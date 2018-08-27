@@ -7,7 +7,7 @@ Office Hours: TBD (258 Hudson Hall Annex)
 
 Dr. Eric Richardson, Ph.D.  
 <eric.s.richardson@duke.edu>  
-Office Hours: Day / Time TBD (XXX Hudson Hall Annex)
+Office Hours: T,Th 1-3pm (273 Hudson Hall Annex)
 
 Dr. Kevin Caves, M.E.  
 <kevin.caves@duke.edu>  
@@ -75,12 +75,12 @@ and present oral/visual technical reports.
 * Proof of feasibility (identification of evaluative testing)
 * First round prototype
 
-## Attendance
+## Attendance and Participation
 Lecture attendance and participation is important because you will be working
-in groups most of the semester.  Participation in these in-class
-activities will count for 15\% of your class grade.  It is very understandable
-that students will have to miss class for job interviews, personal reasons,
-illness, etc.  Absences will be considered \emph{excused} if they are
+in groups most of the semester.  Participation in in-class activities and in 
+out-of-class team activities will count for 15\% of your class grade.  
+It is very understandable that students will have to miss class for job interviews, 
+personal reasons, illness, etc.  Absences will be considered \emph{excused} if they are
 communicated to Drs. Palmeri and Richardson at least 48 hours in advance (subject
 to instructor discretion as an excused absence) or, for illness, through
 submission of a [Short Term Illness Form
@@ -104,9 +104,25 @@ The following grading scheme is subject to change as the semester progresses:
 <td>Participation</td>
 <td>15%</td>
 </tr>
+  
 <tr>
-<td>Midterm project (Cycle 1) deliverables</td>
-<td>35%</td>
+<td>Midterm project (Cycle 1) prototyping/skills deliverables </td>
+<td>15%</td>
+</tr>
+  
+<tr>
+<td>Midterm project (Cycle 1) documentation deliverables </td>
+<td>10%</td>
+</tr>
+
+<tr>
+<td>Final project (Cycle 2) prototyping/skills deliverables </td>
+<td>20%</td>
+</tr>
+  
+<tr>
+<td>Final project (Cycle 2) documentation deliverables </td>
+<td>15%</td>
 </tr>
 
 <tr>
@@ -114,10 +130,6 @@ The following grading scheme is subject to change as the semester progresses:
 <td>25%</td>
 </tr>
 
-<tr>
-<td>Final project prototype (Cycle 2)</td>
-<td>25%</td>
-</tr>
 </table>
 
 ## Class Schedule
