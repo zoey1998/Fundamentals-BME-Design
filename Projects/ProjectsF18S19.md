@@ -58,7 +58,7 @@ Pediatric transport vibration and noise monitor.
 
 Skin device coupling.
 
-## Surgery (Dr. Suresh Agrawal, M.D.)
+## Surgery (Dr. Suresh Agarwal, M.D.)
 
 Chest tube placement and maintained placement / patency.
 
