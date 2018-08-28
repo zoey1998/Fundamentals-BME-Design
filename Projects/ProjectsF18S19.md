@@ -64,7 +64,7 @@ Chest tube placement and maintained placement / patency.
 
 ## GI Surgery (Dr. David Leiman, M.D.)
 
-Novel articulation of endoscopic surgical tools.
+Diagnostic and therapeutic flexible gastrointestinal endoscopy is made possible by through-the-scope working tools. These tools exit the working channel in a single orientation (traditionally parallel to the lumen and/or straight ahead), which potentially limits their utility. Articulating devices such as biopsy forceps or polypectomy snares would substantially increase the degree of freedom with which challenging interventions are performed. 
 
 ## Global Health (Dr. Ana Ceclia Rodriguez, M.D.)
 
