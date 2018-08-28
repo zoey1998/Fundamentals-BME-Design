@@ -70,12 +70,16 @@ Novel articulation of endoscopic surgical tools.
 
 Small-volume medical waste incineration.
 
-## Geriatrics (Sponsor TBD)
+## Hand Surgery (Dr. Marc Richard, M.D.)
 
-Analysis of intra-aural sounds for behavioral monitoring in geriatric patients.
+The measurement of the small joints of the fingers/hand/wrist is tedious and is currently done by a manual process using a handheld goniometer.  There is significant opportunity to make this process faster, more accurate, and more reproducible.  This project seeks to create a device that through image capture technology can ease the process and in turn, improve patient care.  The exportable data will be easily uploaded into electronic medical records or research files offering significant benefit to clinicians as well.
 
 ## Dermatology (Dr. Carlos Eduardo, M.D.)
 
 Mobile body scanning platfrom to track skin lesion evolution.
+
+## Design Ethnography (Sponsor TBD)
+
+Development of a VR system for design ethnography and medical training.
 
 
