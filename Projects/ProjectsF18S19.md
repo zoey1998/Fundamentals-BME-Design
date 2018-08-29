@@ -1,13 +1,5 @@
 # Medical Device Projects (Fall 2018 / Spring 2019)
 
-## Pneumonics (Ken Bernstein, CEO)
-
-Consumer product to monitor respiratory depression.
-
-## Lloyd Technologies (Dr. Ralph Lloyd, Ph.D.)
-
-Novel dissinfection technologies.
-
 ## Surgery / Urologic Oncology (Dr. Ali Amin Sharifi, M.D.)
 
 Laparoscopic needle detector system for localization of retrieving a lost
@@ -37,26 +29,9 @@ military, & EMT applications.
 
 Improved, non-invasive blood pressure monitor for use at home.
 
-## Anesthesiology (Dr. Stuart Grant, M.D.)
-
-Improved depth of anesthesia monitor using muscle stimulation.
-
-## Gastroenterology (Dr. Andrew Muir, M.D.)
-
-Improvement of endoscopy ergonomics.
-
-## Surgery / Urologic Oncology (Dr. Ali Amin Sharifi, M.D.)
-
-Noninvasive medical system to measure the length of intramural ureter in
-children.
-
 ## Neonatology (Dr. David Tanaka, M.D.)
 
 Pediatric transport vibration and noise monitor.
-
-## MicroElastic Ultrasound Systems (Dr. Peter Hollender, Ph.D.)
-
-Skin device coupling.
 
 ## Surgery (Dr. Suresh Agarwal, M.D.)
 
@@ -81,5 +56,4 @@ Mobile body scanning platfrom to track skin lesion evolution.
 ## Design Ethnography (Sponsor TBD)
 
 Development of a VR system for design ethnography and medical training.
-
 
