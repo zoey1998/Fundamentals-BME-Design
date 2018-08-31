@@ -18,7 +18,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Aug 30</td>
-<td>Team formation and Team Dynamics, [Design Process](Lectures/01_DesignProcess.pdf) Overview</td>
+<td>Team formation and Team Dynamics, <a href="Lectures/01_DesignProcess.pdf">Design Process</a> Overview</td>
 <td>Project & Group Selection</td>
 </tr>
 
