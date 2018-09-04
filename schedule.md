@@ -26,7 +26,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <td>Tues Sept 04</td>
 <td>Announce Teams and <a href="https://sakai.duke.edu/access/content/group/7343f8ba-9ce4-42f9-a413-795e986ece25/Lectures/Design%20Foundations%2C%20Part%201%20post.pdf">Design Foundations Part 1</a></td>
 <!--<td><a href="Lectures/DesignExperimentDiscussion.pdf">Engineering Design</a> & <a href="Lectures/DesignExperiment.pdf">Design Experiment</a></td>-->
-<td>Team name and photo, team contract (submitted to through Sakai), email sponsor (all due Friday Sep 7)</td>
+<td>Team name and photo, team contract (submitted through Sakai), email sponsor (all due Friday Sep 7)</td>
 </tr>
 
 <tr>
