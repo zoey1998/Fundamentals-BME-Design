@@ -24,7 +24,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 04</td>
-<td>Announce Teams and Design Foundations, Part 1 (Disease State Analysis, Patient Flow, Competitive Options)</td>
+<td>Announce Teams and Design Foundations, Part 1</td>
 <!--<td><a href="Lectures/DesignExperimentDiscussion.pdf">Engineering Design</a> & <a href="Lectures/DesignExperiment.pdf">Design Experiment</a></td>-->
 <td>Team  Name, team photo, team contract, reach out to sponsor (Due Thursday Sep 6)</td>
 </tr>
