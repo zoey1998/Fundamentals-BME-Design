@@ -33,14 +33,14 @@ progress, severe weather days, etc.  Please check back regularly.
 <td>Thurs Sept 06</td>
 <!--<td><a href="Lectures/Emphathize.pdf">Empathy</a></td>-->
 <td>Skills</td>
-<td>Product Development Worksheet (DSA) and patient flow diagram</td>
+<td></td>
 <!--<td>Client Interviews</td>-->
 </tr>
 
 <tr>
 <td>Tues Sept 11</td> 
 <td>Design Foundations, Part 2 (IP, Market Analysis, Customer Needs)</td>
-<td></td>
+<td>Product Development Worksheet (DSA) and patient flow diagram</td>
 </tr>
 
 <tr>
