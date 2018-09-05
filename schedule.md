@@ -25,7 +25,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Sept 04</td>
 <td>Announce Teams and <a href="Lectures/DesignFoundations_Part1.pdf">Design Foundations Part 1</a></td>
-<td>Team name and photo, [team contract](Assignments/team_contract.md) (Sakai), email sponsor (all due Friday Sep 7)</td>
+<td>[Team name and photo](Assignments/team_name_photo.md), [team contract](Assignments/team_contract.md) (Sakai), email sponsor (all due Friday Sep 7)</td>
 </tr>
 
 <tr>
