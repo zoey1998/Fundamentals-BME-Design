@@ -13,7 +13,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Aug 28</td>
 <td><a href="Lectures/intro/intro.md">Course & Project Overview</a></td>
-<td><a href="http://studentshop.pratt.duke.edu/">Machine Shop</a>, <a href="http://safety.duke.edu">Safety</a> & HIPAA Training</td>
+<td><a href="http://studentshop.pratt.duke.edu/">Machine Shop Training</a>, <a href="Assignments/lab_safety_training.md">Lab Safety Training</a> & <a href="Assignments/human_subjects_training.md">Human Subjects Traning</a></td>
 </tr>
 
 <tr>
