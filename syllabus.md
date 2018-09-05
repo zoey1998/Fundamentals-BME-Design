@@ -21,10 +21,6 @@ Zengtian Deng
 <zengtian.deng@duke.edu>  
 Office Hours: Day / Time TBD (Location TBD)
 
-Ann Pham  
-<anh.q.pham@duke.edu>  
-Office Hours: Day / Time TBD (Location TBD)
-
 Petek Sener  
 <petek.sener@duke.edu>  
 Office Hours: Day / Time TBD (Location TBD)

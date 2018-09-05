@@ -24,23 +24,22 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 04</td>
-<td>Design Foundations, Part 1 (Disease State Analysis, Patient Flow, Competitive Options)</td>
-<!--<td><a href="Lectures/DesignExperimentDiscussion.pdf">Engineering Design</a> & <a href="Lectures/DesignExperiment.pdf">Design Experiment</a></td>-->
-<td>Team  Name, team photo</td>
+<td>Announce Teams and <a href="Lectures/DesignFoundations_Part1.pdf">Design Foundations Part 1</a></td>
+<td>Team name and photo, team contract (submitted through Sakai), email sponsor (all due Friday Sep 7)</td>
 </tr>
 
 <tr>
 <td>Thurs Sept 06</td>
 <!--<td><a href="Lectures/Emphathize.pdf">Empathy</a></td>-->
 <td>Skills</td>
-<td>Product Development Worksheet (DSA) and patient flow diagram</td>
+<td></td>
 <!--<td>Client Interviews</td>-->
 </tr>
 
 <tr>
 <td>Tues Sept 11</td> 
 <td>Design Foundations, Part 2 (IP, Market Analysis, Customer Needs)</td>
-<td></td>
+<td>Product Development Worksheet (DSA) and patient flow diagram</td>
 </tr>
 
 <tr>
