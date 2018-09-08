@@ -31,8 +31,8 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Sept 06</td>
 <!--<td><a href="Lectures/Emphathize.pdf">Empathy</a></td>-->
-<td>Skills</td>
-<td></td>
+<td>Introduction to git and GitHub</td>
+<td><a href="http://studentshop.pratt.duke.edu/">Machine Shop Training</a>, <a href="Assignments/lab_safety_training.md">Lab Safety Training</a> & <a href="Assignments/human_subjects_training.md">Human Subjects Traning</a></td>
 <!--<td>Client Interviews</td>-->
 </tr>
 
@@ -105,8 +105,8 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Oct 16 </td>
 <!--<td><a href="Lectures/DesignSpecification.pdf">Design Specifications & Constraints</a></td>-->
-<td>Concept Generation, Concept Selection, Prototyping strategies</td>
-<td>Three potential decompositions</td>
+<td>NO LECTURE (BMES)</td>
+<td></td>
 </tr>
 
 <tr>
@@ -117,15 +117,15 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Oct 23</td>
-<td>In-class Concept feedback</td>
-<td>Three Pugh Matrices, top three concepts to share in class</td>
+<td>Concept Generation, Concept Selection, Prototyping strategies</td>
+<td>Three potential decompositions</td>
 </tr>
 
 <tr>
 <td>Thurs Oct 25</td>
 <!--<td><a href="Lectures/ProjectIllustration.pdf">Project Illustration (Trig)</a></td>-->
-<td>Skills</td>
-<td></td>
+<td>In-class Concept feedback</td>
+<td>Three Pugh Matrices, top three concepts to share in class</td>
 </tr>
 
 <tr>
