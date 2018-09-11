@@ -39,13 +39,13 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Sept 11</td> 
 <td>Design Foundations, Part 2 (IP, Market Analysis, Customer Needs)</td>
-<td>Product Development Worksheet (DSA) and patient flow diagram</td>
+<td>Product Development Worksheet and patient flow diagram, turn in draft to Sakai by 9/18</td>
 </tr>
 
 <tr>
 <td>Thurs Sept 13</td>
 <td>FDA Clearance (OLV Guest Lecture) / <a href="Lectures/Standards.pdf">Standards</a></td>
-<td>Product Development Worksheet (MA, CN)</td>
+<td></td>
 </tr>
 
 <tr>
@@ -63,7 +63,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 25</td>
-<td>Objectives, Constrains, HOQ, and Pitch Presentations</td>
+<td>Objectives, Constraints, HOQ, and Pitch Presentations</td>
 <!--<td><a href="Lectures/StatementProjectGoals.pdf">Statement of Project Goals</a></td>-->
 <!--<td><a href="Lectures/DefineProjectGoal-POV.pdf">Define Project Goal</a></td>-->
 <td>MedX RFAs</td>
