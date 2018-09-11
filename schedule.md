@@ -38,7 +38,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 11</td> 
-<td>Design Foundations, Part 2 (IP, Market Analysis, Customer Needs)</td>
+<td><a href="Fundamentals-BME-Design/Lectures/Design Foundations, Part 2 post.pdf">Design Foundations Part 2</a (IP, Market Analysis, Customer Needs)</td>
 <td>Product Development Worksheet and patient flow diagram, turn in draft to Sakai by 9/18</td>
 </tr>
 
