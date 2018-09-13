@@ -38,19 +38,20 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 11</td> 
-<td><a href="Lectures/Design Foundations, Part 2 post.pdf">Design Foundations Part 2</a</td>
-<td>Product Development Worksheet and patient flow diagram, turn in draft to Sakai by 9/18</td>
+<td><a href="Lectures/Design Foundations, Part 2 post.pdf">Design Foundations Part 2</a></td>
+<td>[Resources/MedicalDeviceDevelopmentWorksheet2018.xlsx](Product Development Worksheet) and patient flow diagram (turn in draft to Sakai by 9/18)</td>
 </tr>
 
 <tr>
 <td>Thurs Sept 13</td>
-<td>FDA Clearance (OLV Guest Lecture) / <a href="Lectures/Standards.pdf">Standards</a></td>
+<!--<td>FDA Clearance (OLV Guest Lecture) / <a href="Lectures/Standards.pdf">Standards</a></td>-->
+<td>Class Cancelled (Severe Weather)</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Tues Sept 18</td>
-<td>NO LECTURE (NC State Career Fair)</td>
+<td>Class Cancelled (NC State Career Fair)</td>
 <td></td>
 </tr>
 
@@ -78,14 +79,14 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Oct 02</td>
-<td>Dry Run of Pitch Presentations, (Bill Walker coaching)</td>
+<td>In-class Cycle 1 Presentations</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Thurs Oct 04</td>
 <!--<td><a href="Lectures/Brainstorming.pdf">Brainstorming Session</a></td>-->
-<td>In-class Cycle 1 Presentations</td>
+<td>Cycle 2 Overview, Funtional Decomposition</td>
 <td>MedX RFA Applications Due, **Cycle 1 Documentation Due**</td>
 </tr>
 
@@ -98,7 +99,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Oct 11</td>
 <!--<td>The "Elevator Pitch" (I&E, Bill Walker); <a href="Lectures/DecisionMaking-PughMatrix.pdf">Decision Making (Pugh Matrix)</a></td>-->
-<td>Cycle 2 Overview, Funtional Decomposition</td>
+<td>IP / Patents / Freedom to Operate (Eric Wagner, J.D., Duke OLV)</td>
 <td></td>
 </tr>
 
