@@ -52,7 +52,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Sept 18</td>
 <td>Class Cancelled (NC State Career Fair)</td>
-<td></td>
+<td>Begin work on DFD, detailed instructions can be found <a href="Assignments/Design Foundation Document.pdf">here</a> and the rubric can be found <a href="Assignments/Design Foundation Document Rubric.pdf">here</a></td>
 </tr>
 
 <tr>
