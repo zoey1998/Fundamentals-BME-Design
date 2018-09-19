@@ -30,10 +30,8 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Sept 06</td>
-<!--<td><a href="Lectures/Emphathize.pdf">Empathy</a></td>-->
-<td>Introduction to git and GitHub</td>
+<td>Introduction to version control, git and GitHub</td>
 <td><a href="http://studentshop.pratt.duke.edu/">Machine Shop Training</a>, <a href="Assignments/lab_safety_training.md">Lab Safety Training</a> & <a href="Assignments/human_subjects_training.md">Human Subjects Traning</a></td>
-<!--<td>Client Interviews</td>-->
 </tr>
 
 <tr>
@@ -44,7 +42,6 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Sept 13</td>
-<!--<td>FDA Clearance (OLV Guest Lecture) / <a href="Lectures/Standards.pdf">Standards</a></td>-->
 <td>Class Cancelled (Severe Weather)</td>
 <td></td>
 </tr>
@@ -57,22 +54,18 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Sept 20</td>
-<td>Skills</td>
-<!--<td><a href="Lectures/DesignCriteria_and_UserDefinedScales.pdf">Design Criteria / User Scales</a></td>-->
+<td>Kanban Board Project Management (GitHub / Trello); GitHub Project Repos</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Tues Sept 25</td>
 <td>Objectives, Constraints, HOQ, and Pitch Presentations</td>
-<!--<td><a href="Lectures/StatementProjectGoals.pdf">Statement of Project Goals</a></td>-->
-<!--<td><a href="Lectures/DefineProjectGoal-POV.pdf">Define Project Goal</a></td>-->
 <td>MedX RFAs</td>
 </tr>
 
 <tr>
 <td>Thurs Sept 27</td>
-<!--<td><a href="Lectures/ProjectDecomposition.pdf">Project Decomposition</a></td>-->
 <td>Skills</td>
 <td>Product Development worksheet (HOQ, Specs)</td>
 </tr>
@@ -85,7 +78,6 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 04</td>
-<!--<td><a href="Lectures/Brainstorming.pdf">Brainstorming Session</a></td>-->
 <td>Cycle 2 Overview, Funtional Decomposition</td>
 <td>MedX RFA Applications Due, **Cycle 1 Documentation Due**</td>
 </tr>
@@ -98,14 +90,12 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 11</td>
-<!--<td>The "Elevator Pitch" (I&E, Bill Walker); <a href="Lectures/DecisionMaking-PughMatrix.pdf">Decision Making (Pugh Matrix)</a></td>-->
 <td>IP / Patents / Freedom to Operate (Eric Wagner, J.D., Duke OLV)</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Tues Oct 16 </td>
-<!--<td><a href="Lectures/DesignSpecification.pdf">Design Specifications & Constraints</a></td>-->
 <td>NO LECTURE (BMES)</td>
 <td></td>
 </tr>
@@ -124,34 +114,29 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 25</td>
-<!--<td><a href="Lectures/ProjectIllustration.pdf">Project Illustration (Trig)</a></td>-->
 <td>In-class Concept feedback</td>
 <td>Three Pugh Matrices, top three concepts to share in class</td>
 </tr>
 
 <tr>
 <td>Tues Oct 30</td>
-<!--<td><a href="Lectures/FeedbackCaptureGrid.pdf">Iterate Design Solutions</a></td>-->
 <td>Testing strategies</td>
 </tr>
 
 <tr>
 <td>Thurs Nov 01</td>
-<!--<td><a href="Lectures/SafetyHazards.pdf">Safety & Hazards</a></td>-->
 <td>Skills</td>
 <td>TM Proposal for each specifications (1 paragraph)</td>
 </tr>
 
 <tr>
 <td>Tues Nov 06</td>
-<!--<td><a href="Lectures/Testing.pdf">Testing</a></td>-->
 <td>In-class concept feedback</td>
 <td>Top three concepts to share in class</td>
 </tr>
 
 <tr>
 <td>Thurs Nov 08</td>
-<!--<td><a href="Lectures/Evaluation.pdf">Evaluation</a></td>-->
 <td>Skills/Concept Generation/Prototyping</td>
 <td></td>
 </tr>
