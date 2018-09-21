@@ -122,8 +122,13 @@ The following grading scheme is subject to change as the semester progresses:
 </tr>
 
 <tr>
-<td>Oral presentations (Both Cycle 1 and 2)</td>
-<td>25%</td>
+<td>Oral presentation (Cycle 1)</td>
+<td>10%</td>
+</tr>
+
+<tr>
+<td>Oral presentation (Cycle 2)</td>
+<td>15%</td>
 </tr>
 
 </table>
