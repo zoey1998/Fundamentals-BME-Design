@@ -60,26 +60,26 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 25</td>
-<td>Objectives, Constraints, HOQ, and Pitch Presentations</td>
-<td>MedX RFAs</td>
-</tr>
-
-<tr>
-<td>Thurs Sept 27</td>
-<td>Skills</td>
-<td>Product Development worksheet (HOQ, Specs)</td>
-</tr>
-
-<tr>
-<td>Tues Oct 02</td>
-<td>In-class Cycle 1 Presentations</td>
+<td>Career prep, MedX RFA, Pitch Presentations, Cycle 2 Overview and Functional Decompositions</td>
 <td></td>
 </tr>
 
 <tr>
+<td>Thurs Sept 27</td>
+<td>Edwards Lifesciences and Pitch coaching by Dr. Walker</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Tues Oct 02</td>
+<td>Concept Generation, Concept Selection, Prototyping strategies, objectives</td>
+<td>Submit updated Product Development worksheet (Specs and Objectives) to Sakai by midnight 10/3</td>
+</tr>
+
+<tr>
 <td>Thurs Oct 04</td>
-<td>Cycle 2 Overview, Funtional Decomposition</td>
-<td>MedX RFA Applications Due, **Cycle 1 Documentation Due**</td>
+<td>Skills</td>
+<td></td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Oct 11</td>
 <td>IP / Patents / Freedom to Operate (Eric Wagner, J.D., Duke OLV)</td>
-<td></td>
+<td>MedX RFA Applications Due, **Cycle 1 Documentation Due**, Draft of Pitch slide deck</td>
 </tr>
 
 <tr>
@@ -107,32 +107,39 @@ progress, severe weather days, etc.  Please check back regularly.
 </tr>
 
 <tr>
+<td>Monday Oct 22</td>
+<td>Cycle 1 Pitch Presentations MONDAY NIGHT</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Tues Oct 23</td>
-<td>Concept Generation, Concept Selection, Prototyping strategies</td>
-<td>Three potential decompositions</td>
+<td>In-class concept feedback</td>
+<td></td>
 </tr>
 
 <tr>
 <td>Thurs Oct 25</td>
-<td>In-class Concept feedback</td>
-<td>Three Pugh Matrices, top three concepts to share in class</td>
+<td>Skills</td>
+<td></td>
 </tr>
 
 <tr>
 <td>Tues Oct 30</td>
-<td>Testing strategies</td>
+<td>Testing Strategies/Skills</td>
+<td>TM Proposal for each specification (1 paragraph) due through Sakai by 11/4</td>
 </tr>
 
 <tr>
 <td>Thurs Nov 01</td>
 <td>Skills</td>
-<td>TM Proposal for each specifications (1 paragraph)</td>
+<td></td>
 </tr>
 
 <tr>
 <td>Tues Nov 06</td>
-<td>In-class concept feedback</td>
-<td>Top three concepts to share in class</td>
+<td>Skills/Concept Generation/Prototyping</td>
+<td></td>
 </tr>
 
 <tr>
