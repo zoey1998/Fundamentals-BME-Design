@@ -54,7 +54,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Sept 20</td>
-<td>Kanban Board Project Management (GitHub / Trello); GitHub Project Repos</td>
+<td>Kanban Board Project Management (GitHub / Trello); GitHub Project Repos; <a href="Lectures/PDW feedback.pdf">PDW Feedback</a></td>
 <td></td>
 </tr>
 
