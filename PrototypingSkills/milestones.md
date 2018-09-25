@@ -18,8 +18,8 @@ anything "fancy" to use git to its fullest potential.
 * [**Optional**]  Setup an SSH key to seamlessly push/pull to/from your GitHub
 repositories: https://help.github.com/articles/connecting-to-github-with-ssh/   
 
-* Create a new repository for this project, and add Dr. Palmeri (`mlp6`) as a
-`Collaborator`.
+* Create a new repository for this project, and add Dr. Palmeri (`mlp6`) and
+  Petek Sener (`ps178`) as `Collaborators`.
 
 * Initialize your repository with a `README.md` file that is a copy of the
 project description.  You'll be modifying this as your project evolves.
