@@ -61,7 +61,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Sept 25</td>
 <td>Career prep, MedX RFA, Pitch Presentations, Cycle 2 Overview and Functional Decompositions</td>
-<td></td>
+<td>Prototyping Design Challenge: Milestones 01 & 02 (Sakai assignments)</td>
 </tr>
 
 <tr>
