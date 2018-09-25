@@ -69,3 +69,7 @@ https://colab.duke.edu/ .  We have a specific channel on there for `#git`.
   + Access for battery.
   + Consider what aspects of the device need to be accessible to the user
 during operation.
+
+The physical design sketches can be done by hand (paper-and-pencil drawings) or
+using CAD software (CAD software will ultimately be used, but can be slower
+when generating initial designs).
