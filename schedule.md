@@ -60,13 +60,13 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Sept 25</td>
-<td>Career prep, MedX RFA, Pitch Presentations, Cycle 2 Overview and Functional Decompositions</td>
+<td>Career prep, MedX RFA, Pitch Presentations, Cycle 2 Overview and <a href="Lectures/logistics career stuff and functional decomp posted.pdf">Functional Decompositions</a></td>
 <td>Prototyping Design Challenge: Milestones 01 & 02 (Sakai assignments)</td>
 </tr>
 
 <tr>
 <td>Thurs Sept 27</td>
-<td>Edwards Lifesciences and Pitch coaching by Dr. Walker</td>
+<td>Edwards Lifesciences and Pitch coaching by <a href="Resources/HemoSonics Non Confidential Deck.pdf">Dr. Walker</a></td>
 <td></td>
 </tr>
 
