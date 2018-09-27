@@ -66,7 +66,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Sept 27</td>
-<td>Edwards Lifesciences and Pitch coaching by <a href="Resources/HemoSonics Non Confidential Deck.pdf">Dr. Walker</a></td>
+<td>Edwards Lifesciences and Pitch coaching by <a href="Resources/HemoSonics Non Confidential Deck.pdf">Dr. Walker</a>, and <a href="Lectures/Pitch Format.pdf">Pitch Format</a></td>
 <td></td>
 </tr>
 
