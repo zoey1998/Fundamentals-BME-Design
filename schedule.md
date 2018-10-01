@@ -109,7 +109,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Monday Oct 22</td>
 <td>Cycle 1 Pitch Presentations MONDAY NIGHT</td>
-<td></td>
+<td><i>Submit slide deck to Sakai assignment.</i></td>
 </tr>
 
 <tr>
