@@ -72,7 +72,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Oct 02</td>
-<td>Concept Generation, Concept Selection, Prototyping strategies</td>
+<td><a href="Lectures/Concept Generation and Screening posted.pdf">Concept Generation, Concept Selection, Prototyping strategies</a></td>
 <td></td>
 </tr>
 
