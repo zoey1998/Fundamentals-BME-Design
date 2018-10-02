@@ -72,14 +72,14 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Oct 02</td>
-<td>Concept Generation, Concept Selection, Prototyping strategies, objectives</td>
-<td>Submit updated Product Development worksheet (Specs and Objectives) to Sakai by midnight 10/3</td>
+<td>Concept Generation, Concept Selection, Prototyping strategies</td>
+<td></td>
 </tr>
 
 <tr>
 <td>Thurs Oct 04</td>
-<td>Design Skills Project: Brainstorming</td>
-<td>Design Skills Project: Milestone 03 (Sakai)</td>
+<td>Objectives, Design Skills Project: Brainstorming</td>
+<td>Design Skills Project: Milestone 03 (Sakai), Submit updated Product Development worksheet (with Objectives) to Sakai by midnight 10/7</td>
 </tr>
 
 <tr>
