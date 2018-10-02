@@ -78,8 +78,8 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 04</td>
-<td>Skills</td>
-<td></td>
+<td>Design Skills Project: Brainstorming</td>
+<td>Design Skills Project: Milestone 03 (Sakai)</td>
 </tr>
 
 <tr>
@@ -97,13 +97,13 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Oct 16 </td>
 <td>NO LECTURE (BMES)</td>
-<td></td>
+<td>Design Skills Project: Milestone 04 (Sakai)</td>
 </tr>
 
 <tr>
 <td>Thurs Oct 18</td>
 <td>NO LECTURE (BMES)</td>
-<td></td>
+<td>Work on pitch presentations.</td>
 </tr>
 
 <tr>
