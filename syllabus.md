@@ -102,7 +102,7 @@ The following grading scheme is subject to change as the semester progresses:
 </tr>
   
 <tr>
-<td>Midterm project (Cycle 1) prototyping/skills deliverables </td>
+<td>Prototyping project (Cycle 1) prototyping/skills deliverables </td>
 <td>15%</td>
 </tr>
   
