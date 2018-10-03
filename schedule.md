@@ -79,7 +79,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Oct 04</td>
 <td>Objectives, Design Skills Project: Brainstorming</td>
-<td>Design Skills Project: Milestone 03 (Sakai), Submit updated Product Development worksheet (with Objectives) to Sakai by midnight 10/7</td>
+<td>Design Skills Project: Milestone 03 (Sakai, to be assigned), Submit updated Product Development worksheet (with Objectives) to Sakai by midnight 10/7</td>
 </tr>
 
 <tr>
