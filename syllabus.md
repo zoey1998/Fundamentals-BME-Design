@@ -85,8 +85,17 @@ Unexcused absences will count against the participation component of your class
 grade.
 
 ## Textbooks & Resources
-There are no required textbooks for this class.  A variety of online resources
-will be referenced throughout the semester.  
+There are no required textbooks for this class.  The following texts are
+available on hold and are great references for the design process we will be
+engaging in this semester:
+
+* [Engineering by Design (Voland)](https://www.pearson.com/us/higher-education/program/Voland-Engineering-by-Design-2nd-Edition/PGM73262.html)
+* [Engineering Design: A project-based introduction (Dym, Little, Orwin)](https://www.wiley.com/en-us/Engineering+Design%3A+A+Project+Based+Introduction%2C+4th+Edition-p-9781118324585)
+* [Design of Biomedical Devices and Systems (King, Fries, Johnson)](https://www.crcpress.com/Design-of-Biomedical-Devices-and-Systems/King-Fries-Johnson/p/book/9781466569133)
+* [Biodesign: The process of innovating medical technologies](https://www.gsb.stanford.edu/faculty-research/books/biodesign-process-innovating-medical-technologies)
+* [Product Design and Development (Ulrich, Eppinger)](http://www.ulrich-eppinger.net/)
+
+A variety of online resources will be referenced throughout the semester.  
 
 ## Grading
 The course GitHub repository will host all [Assignments](Assignments/).
