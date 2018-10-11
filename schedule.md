@@ -79,7 +79,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Oct 04</td>
 <td>Objectives, Design Skills Project: Brainstorming</td>
-<td>Design Skills Project: Milestone 03 (Sakai, to be assigned), Submit updated Product Development worksheet (with Objectives) to Sakai by 10/7 if you want feedback by 10/9, otherwise turn in by 10/10</td>
+<td>Submit updated Product Development worksheet (with Objectives) to Sakai by 10/7 if you want feedback by 10/9, otherwise turn in by 10/10</td>
 </tr>
 
 <tr>
@@ -91,13 +91,19 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Oct 11</td>
 <td>IP / Patents / Freedom to Operate (Eric Wagner, J.D., Duke OLV)</td>
-<td>MedX RFA Applications Due, **Cycle 1 Documentation Due**, Draft of Pitch slide deck</td>
+<td>MedX RFA Applications Due (Sakai), <b>Cycle 1 Documentation Due</b> (Sakai), Pitch slide deck (draft, Sakai); Design Skills Project: Milestone 03 (assigned on Sakai)</td>
+</tr>
+
+<tr>
+<td>Mon Oct 15 </td>
+<td>Software Tool Install</td>
+<td></td>
 </tr>
 
 <tr>
 <td>Tues Oct 16 </td>
 <td>NO LECTURE (BMES)</td>
-<td>Design Skills Project: Milestone 04 (Sakai)</td>
+<td>Design Skills Project: Milestone 04 (assigned on Sakai)</td>
 </tr>
 
 <tr>
@@ -120,7 +126,13 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 25</td>
-<td>Skills</td>
+<td>Design Skills: Design Reviews</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Mon Oct 29 </td>
+<td>Mechanical Design Review (Blur PD)</td>
 <td></td>
 </tr>
 
@@ -133,6 +145,12 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Nov 01</td>
 <td>Skills</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Mon Nov 05</td>
+<td>Electronics Design Review (Blur PD)</td>
 <td></td>
 </tr>
 
@@ -193,8 +211,17 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Dec 06</td>
 <td>Cycle 2 Concept Evaluations, part 2</td>
-<td>**Cycle 2 Documentation Due**</td>
+<td><b>Cycle 2 Documentation Due</b></td>
 <td></td>
 </td>
+</tr>
+
+<tr>
+<td>Tues Dec 12</td>
+<td>BME Design Symposium (16:00-19:00)</td>
+<td>Pitch w/ slides & poster</td>
+<td></td>
+</td>
+</tr>
 
 <table>
