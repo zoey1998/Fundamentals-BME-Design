@@ -62,3 +62,7 @@
 * [Altium CircuitStudio](https://www.altium.com/circuitstudio/)
 * [Altium Designer](https://www.altium.com/altium-designer/)
   + [Duke-Specific How To Install](altium_designer_install.md)
+
+## Microcontrollers
+* [Arduino](https://www.arduino.cc/)
+* [Particle](https://www.particle.io/)
