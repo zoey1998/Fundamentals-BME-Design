@@ -218,8 +218,8 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Dec 12</td>
-<td>BME Design Symposium (16:00-19:00)</td>
-<td>Pitch w/ slides & poster</td>
+<td>BME Design Symposium</td>
+<td><i>See associated Sakai assignment.</i></td>
 <td></td>
 </td>
 </tr>
