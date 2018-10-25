@@ -39,3 +39,8 @@ considerations that may not have shined through in ECE110L/BME354L.
 ## Example Arduino Code
 * https://github.com/mlp6/ADPL/tree/master/software/ADPL_electron
 * Software flowchart
+
+## Electronic Design Automation (EDA)
+* Utilize information about part footprints to layout PCBs.
+* Simulate circuit behavior.
+* [EDA Overview](EDA.md)
