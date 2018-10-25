@@ -126,7 +126,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 25</td>
-<td><a href="FeedbackF18Cycle1.md">Feedback Summary</a>; <a href="PrototypingSkills/ElectronicsDesign.md">Electronics Design</a></td>
+<td><a href="FeedbackF18Cycle1.md">Feedback Summary</a>; <a href="PrototypingSkills/ElectronicsDesign.md">Electronics Design</a>; <a href="PrototypingSkills/EDA.md">EDA</a></td>
 <td>Electronic Design (Paper / Breadboard) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-03">Milestone 03</a>]</td>
 </tr>
 
