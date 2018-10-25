@@ -78,7 +78,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Oct 04</td>
-<td>Objectives, Design Skills Project: Brainstorming</td>
+<td><a href="Lectures/objectives posted v2.pdf">Objectives</a>, Design Skills Project: Brainstorming</td>
 <td>Submit updated Product Development worksheet (with Objectives) to Sakai by 10/7 if you want feedback by 10/9, otherwise turn in by 10/10</td>
 </tr>
 
