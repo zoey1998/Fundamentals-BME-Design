@@ -132,7 +132,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Mon Oct 29 </td>
-<td>Electronic Design Automation (EDA)</td>
+<td>Electronic Design Automation (EDA) [Jeff Rosino, <a href="https://blurpd.com">BlurPD</a>]</td>
 <td><i>Schedule individual group meetings with Drs. Palmeri & Richardson</i></td>
 </tr>
 
@@ -150,7 +150,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Mon Nov 05</td>
-<td>Mechanical Design Reviews</td>
+<td>Mechanical CAD [Scott Liddle, <a href="https://blurpd.com">BlurPD</a>]</td>
 <td>Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-05">Milestone 05</a></td>
 </tr>
 
