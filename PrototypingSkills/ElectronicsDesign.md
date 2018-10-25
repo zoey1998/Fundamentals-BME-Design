@@ -3,9 +3,12 @@
 This document is a summary of some practical electronic circuit design
 considerations that may not have shined through in ECE110L/BME354L.
 
-## Pull-up/down resistors
+## Pull-up/down resistors (switches)
 * We do not want floating inputs!
 * Toggle digital input with switch.
+* Need to feed into high-impedance load.
+* Energy dissipation?
+* Debouncing (persistent state over delay)
 
 ## Detecting button press with MCU
 * Interrupts!  Not dependent on `loop()` execution time.
@@ -32,7 +35,7 @@ considerations that may not have shined through in ECE110L/BME354L.
 * Protection is related to diode threshold voltage and DC offset.
 
 ## Bypass Capacitors
-* Stabalize "constant" voltage sources.
+* Stabilize "constant" voltage sources.
 * Act as LPF.
 * Should be as close to source pin as possible.
 * Usually tenths of a uF.
