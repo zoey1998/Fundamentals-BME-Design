@@ -30,11 +30,17 @@
 * More details added to remaining class [schedule](schedule.md).
 
 * Prototyping skills were delayed to accommodate delay in some projects getting
-  defined; ramping up exponentially starting **now**.
+  defined and concurrent introduction to electronics course; ramping up
+  exponentially starting **now**.
 
 * Light project is meant to be a "sandbox" to practice these skills; not a
-  distraction.
+  distraction.  Applicable to both medical device and disability /
+  rehabilitation projects.
+
+* Your submitted objectives will guide what is expected by December.
 
 * Individual team meetings with Drs. Palmeri and Richardson will guide main
   project next steps, with lots of guidance on how to execute on the
   prototypes.
+
+## One more thing...
