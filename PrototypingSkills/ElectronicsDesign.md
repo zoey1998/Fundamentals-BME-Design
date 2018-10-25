@@ -25,6 +25,7 @@ considerations that may not have shined through in ECE110L/BME354L.
 ## Voltage Regulators
 * Produce a constant output voltage for input voltage higher than desired output.
 * Handles power fluctuations / discharging sources.
+* Dissipates appreciable energy (commonly equipped with a heat sink).
 
 ## Voltage Protection (Voltage Clippers / Limiters)
 * Use of diodes to prevent voltage spikes from causing component damage.
