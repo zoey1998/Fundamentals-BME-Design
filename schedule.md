@@ -13,7 +13,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Aug 28</td>
 <td><a href="Lectures/intro/intro.md">Course & Project Overview</a></td>
-<td><a href="http://studentshop.pratt.duke.edu/">Machine Shop Training</a>, <a href="Assignments/lab_safety_training.md">Lab Safety Training</a> & <a href="Assignments/human_subjects_training.md">Human Subjects Traning</a></td>
+<td><a href="http://studentshop.pratt.duke.edu/">Machine Shop Training</a>, <a href="Assignments/lab_safety_training.md">Lab Safety Training</a> & <a href="Assignments/human_subjects_training.md">Human Subjects Training</a></td>
 </tr>
 
 <tr>
@@ -25,13 +25,13 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Sept 04</td>
 <td>Announce Teams and <a href="Lectures/DesignFoundations_Part1.pdf">Design Foundations Part 1</a></td>
-<td>[Team name and photo](Assignments/team_name_photo.md), [team contract](Assignments/team_contract.md) (Sakai), email sponsor (all due Friday Sep 7)</td>
+<td><a href="Assignments/team_name_photo.md">Team Name & Photo</a>, <a href="Assignments/team_contract.md">Team Contract</a> (Sakai), email sponsor (all due Friday Sep 7)</td>
 </tr>
 
 <tr>
 <td>Thurs Sept 06</td>
 <td>Introduction to version control, git and GitHub</td>
-<td><a href="http://studentshop.pratt.duke.edu/">Machine Shop Training</a>, <a href="Assignments/lab_safety_training.md">Lab Safety Training</a> & <a href="Assignments/human_subjects_training.md">Human Subjects Traning</a></td>
+<td><a href="http://studentshop.pratt.duke.edu/">Machine Shop Training</a>, <a href="Assignments/lab_safety_training.md">Lab Safety Training</a> & <a href="Assignments/human_subjects_training.md">Human Subjects Training</a></td>
 </tr>
 
 <tr>
@@ -42,13 +42,13 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Sept 13</td>
-<td>Class Cancelled (Severe Weather)</td>
+<td>Class Canceled (Severe Weather)</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Tues Sept 18</td>
-<td>Class Cancelled (NC State Career Fair)</td>
+<td>Class Canceled (NC State Career Fair)</td>
 <td>Begin work on DFD, detailed instructions can be found <a href="Assignments/Design Foundation Document.pdf">here</a> and the rubric can be found <a href="Assignments/Design Foundation Document Rubric.pdf">here</a></td>
 </tr>
 
@@ -91,7 +91,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Oct 11</td>
 <td>IP / Patents / Freedom to Operate (Eric Wagner, J.D., Duke OLV)</td>
-<td>MedX RFA Applications Due (Sakai), <b>Cycle 1 Documentation Due</b> (Sakai), Pitch slide deck (draft, Sakai); Design Skills Project: Milestone 03 (assigned on Sakai)</td>
+<td>MedX RFA Applications Due (Sakai), <b>Cycle 1 Documentation Due</b> (Sakai), Pitch slide deck (draft, Sakai)</td>
 </tr>
 
 <tr>
@@ -103,7 +103,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Oct 16 </td>
 <td>NO LECTURE (BMES)</td>
-<td>Design Skills Project: Milestone 04 (assigned on Sakai)</td>
+<td></td>
 </tr>
 
 <tr>
@@ -114,67 +114,73 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Monday Oct 22</td>
-<td>Cycle 1 Pitch Presentations MONDAY NIGHT</td>
+<td><b>Cycle 1 Pitch Presentations</b></td>
 <td><i>Submit slide deck to Sakai assignment.</i></td>
 </tr>
 
 <tr>
 <td>Tues Oct 23</td>
-<td>In-class concept feedback</td>
+<td>In-class concept feedback; presentation tips</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Thurs Oct 25</td>
-<td>Design Skills: Design Reviews</td>
-<td></td>
+<td><a href="FeedbackF18Cycle1.md">Feedback Summary</a>; <a href="PrototypingSkills/ElectronicsDesign.md">Electronics Design</a></td>
+<td>Electronic Design (Paper / Breadboard) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-03">Milestone 03</a>]</td>
 </tr>
 
 <tr>
 <td>Mon Oct 29 </td>
-<td>Mechanical Design Review (Blur PD)</td>
-<td></td>
+<td>Electronic Design Automation (EDA)</td>
+<td><i>Schedule individual group meetings with Drs. Palmeri & Richardson</i></td>
 </tr>
 
 <tr>
 <td>Tues Oct 30</td>
-<td>Testing Strategies/Skills</td>
+<td>Mechanical Design: Strain Relief, Mounting, Ergonomics, External Access</td>
 <td>TM Proposal for each specification (1 paragraph) due through Sakai by 11/4</td>
 </tr>
 
 <tr>
 <td>Thurs Nov 01</td>
-<td>Skills</td>
-<td></td>
+<td>Implementing your mechanical design (CAD)</td>
+<td>Final Electronic Design (Breadboard -> Perf / PCB) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-04">Milestone 04</a>]</td>
 </tr>
 
 <tr>
 <td>Mon Nov 05</td>
-<td>Electronics Design Review (Blur PD)</td>
-<td></td>
+<td>Mechanical Design Reviews</td>
+<td>Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-05">Milestone 05</a></td>
 </tr>
 
 <tr>
 <td>Tues Nov 06</td>
-<td>Skills/Concept Generation/Prototyping</td>
-<td></td>
+<td>Individual Group Meetings</td>
+<td>Final Mechanical Design (3D Print / Machine) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-06">Milestone 06</a>]</td>
 </tr>
 
 <tr>
 <td>Thurs Nov 08</td>
-<td>Skills/Concept Generation/Prototyping</td>
+<td>Individual Group Meetings</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Mon Nov 12</td>
+<td>Lab Time</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Tues Nov 13</td>
-<td>Skills/Concept Generation/Prototyping</td>
+<td>Individual Group Meetings</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Thurs Nov 15</td>
-<td>Skills/Concept Generation/Prototyping</td>
+<td>Individual Group Meetings</td>
 <td></td>
 </tr>
 
@@ -212,16 +218,13 @@ progress, severe weather days, etc.  Please check back regularly.
 <td>Thurs Dec 06</td>
 <td>Cycle 2 Concept Evaluations, part 2</td>
 <td><b>Cycle 2 Documentation Due</b></td>
-<td></td>
 </td>
 </tr>
 
 <tr>
 <td>Tues Dec 12</td>
-<td>BME Design Symposium</td>
-<td><i>See associated Sakai assignment.</i></td>
-<td></td>
-</td>
+<td><b>BME Design Symposium</b> <i>See associated Sakai assignment.</i></td>
+<td><b>Final light project due</b> (<a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-07">Milestone 07</a>, before symposium).</td>
 </tr>
 
 <table>
