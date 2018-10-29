@@ -29,6 +29,10 @@ considerations that may not have shined through in ECE110L/BME354L.
 * Produce a constant output voltage for input voltage higher than desired output.
 * Handles power fluctuations / discharging sources.
 * Dissipates appreciable energy (commonly equipped with a heat sink).
+* Common 5 V regulator used in the lab is the
+  [7805](https://en.wikipedia.org/wiki/78xx) in and
+  [TO-220](https://en.wikipedia.org/wiki/TO-220)
+  [TO-92](https://en.wikipedia.org/wiki/TO-92) packages.
 
 ## Voltage Protection (Voltage Clippers / Limiters)
 * Use of diodes to prevent voltage spikes from causing component damage.
