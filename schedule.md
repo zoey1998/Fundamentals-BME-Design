@@ -139,7 +139,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Oct 30</td>
 <td>Mechanical Design: Strain Relief, Mounting, Ergonomics, External Access</td>
-<td>TM Proposal for each specification (1 paragraph) due through Sakai by 11/4</td>
+<td></td>
 </tr>
 
 <tr>
