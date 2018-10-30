@@ -127,7 +127,6 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Oct 25</td>
 <td><a href="FeedbackF18Cycle1.md">Feedback Summary</a>; <a href="PrototypingSkills/ElectronicsDesign.md">Electronics Design</a>; <a href="PrototypingSkills/EDA.md">EDA</a></td>
-<td>Electronic Design (Paper / Breadboard) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-03">Milestone 03</a>]</td>
 </tr>
 
 <tr>
@@ -138,14 +137,14 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Oct 30</td>
-<td>Mechanical Design: Strain Relief, Mounting, Ergonomics, External Access</td>
-<td></td>
+<td>Mechanical Design Overview; EDA Summary / Worktime</td>
+<td>Work on Milestone 03/04</td>
 </tr>
 
 <tr>
 <td>Thurs Nov 01</td>
 <td>Implementing your mechanical design (CAD)</td>
-<td>Final Electronic Design (Breadboard -> Perf / PCB) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-04">Milestone 04</a>]</td>
+<td>Electronic Design (Paper / Breadboard) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-03">Milestone 03</a>]</td>
 </tr>
 
 <tr>
@@ -157,7 +156,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Nov 06</td>
 <td>Individual Group Meetings</td>
-<td>Final Mechanical Design (3D Print / Machine) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-06">Milestone 06</a>]</td>
+<td>Final Electronic Design (Breadboard -> Perf / PCB) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-04">Milestone 04</a>]</td>
 </tr>
 
 <tr>
@@ -169,7 +168,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Mon Nov 12</td>
 <td>Lab Time</td>
-<td></td>
+<td>Final Mechanical Design (3D Print / Machine) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-06">Milestone 06</a>]</td>
 </tr>
 
 <tr>
