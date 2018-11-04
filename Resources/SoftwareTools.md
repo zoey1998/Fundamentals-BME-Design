@@ -31,11 +31,6 @@
 * LibreOffice Draw
 
 ## Computer-Aided Design (CAD)
-* [OpenSCAD](https://www.openscad.org/)
-  + Open source
-  + Text-based input
-  + Multi-platform
-  + Not popular in industry
 * [Autodesk Inventor](https://www.autodesk.com/education/free-software/inventor-professional)
   + Free for academic use
   + Industry standard
@@ -48,6 +43,15 @@
   + Industry standard
   + Duke-Licensed: [How To Install](solidworks_install.md)
   + Windows-only
+* [Onshape](https://onshape.com)
+  + Completely cloud-based
+  + Full-featured
+  + Free for public projects
+* [OpenSCAD](https://www.openscad.org/)
+  + Open source
+  + Text-based input
+  + Multi-platform
+  + Not popular in industry
 * [FreeCAD](https://www.freecadweb.org/)
   + Open source
   + Multi-platform
@@ -62,6 +66,7 @@
 * [Altium CircuitStudio](https://www.altium.com/circuitstudio/)
 * [Altium Designer](https://www.altium.com/altium-designer/)
   + [Duke-Specific How To Install](altium_designer_install.md)
+* [EasyEDA](https://easyeda.com)
 
 ## Microcontrollers
 * [Arduino](https://www.arduino.cc/)
