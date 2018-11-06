@@ -1,0 +1,55 @@
+pn,description,package
+INA726,in amp,DIP-8
+LF353,op amp,DIP-8
+2N7000,N-chan MOSFET,TO-92
+9B-16.000MEEJ-B ,crystal oscillator (16 MHz),
+7808,8V reg,TO-220
+7905, -5V reg,TO-220
+7805,5V reg,"TO-220, TO-92"
+7812,12V reg,TO-220
+7912, -12V reg,TO-220
+7815,15V reg,TO-220
+7915, -15V reg,TO-220
+LM723,LDO reg,
+NE5532,opamp,DIP-8
+uA1458,opamp,DIP-8
+LM324,quad opamp,DIP-14
+LM741,opamp,DIP-8
+TL072,opamp,DIP-8
+TL074,opamp,DIP-8
+TL082,opamp,DIP-8
+TL084,opamp,DIP-8
+LF356,opamp,DIP-8
+LF353,opamp,DIP-8
+LF411,opamp,DIP-8
+LF412,opamp,DIP-8
+LM358,opamp,DIP-8
+LM301,opamp,DIP-8
+LM308,opamp,DIP-8
+LF386-1,audio amp,DIP-8
+LF383-3,audio amp,DIP-8
+INA126,instrumentation amp,DIP-8
+MCP6002,RRIO omamp,DIP-8
+ULN2803,Darlington,
+ULN2003,Darlington,
+TIP120,NPN Darlington,TO-220
+TIP127,PNP Darlington,TO-220
+556,"timer, dual 555",DIP-14
+555,timer,DIP-8
+LM311,comparator,DIP-8
+LM339,comparator,DIP-8
+LM393,comparator,DIP-8
+LM311,comparator,DIP-8
+MCP6541,push-pull output omparator,DIP-8
+TLC3702,push-pull output comparator,DIP-8
+MC1488,driver,
+MAX232,driver,
+MC1489,driver,
+MCP3008,A to D convertor,
+J109,N-chan JFET,
+IRLI630,N MOSFET 20V 6A,
+LM2917,F-to-V converter,
+IRFZ44,N FET,
+PIC16F676,,
+ATTINY85,,
+ATTINY10,,

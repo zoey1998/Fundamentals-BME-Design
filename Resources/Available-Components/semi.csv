@@ -1,0 +1,15 @@
+pn,description,package
+2N3904,NPN BJT,TO-92
+2N3906,PNP BJT,TO-92
+PD204-6C,photodiode,T1 (3mm)
+2N4401,NPN transistor,TO-92
+NTCLE100E3272JB0,"Thermistor, NTC",
+,"Green, red, misc LED T1 3/4",T1 3/4 (5mm)
+Adafruit 116,Photoresistors CdS cell,
+FSM8JRT,momentary push button,
+1N914,diode,DO-35
+1N5226,3.3V Zener Diode,DO-35
+1N4730,3.9V Zener Diode,DO-35
+BZX79-C4V7,4.7V Zener,DO-35
+1N5231,5.1V Zener,DO-35
+1N5239,9.1V Zener,DO-35
