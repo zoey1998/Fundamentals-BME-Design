@@ -185,8 +185,8 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Nov 20</td>
-<td>Low-fidelity prototype showcase</td>
-<td>One low to medium fidelity prototype to show in class (Videos encouraged)</td>
+<td>Peer Check-in</td>
+<td>sketch, low fidelity prototype or general update to show in class (videos/drawings encouraged - email to Richardson prior)</td>
 </tr>
 
 <tr>
