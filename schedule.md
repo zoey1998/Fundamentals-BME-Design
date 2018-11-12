@@ -150,7 +150,6 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Mon Nov 05</td>
 <td>Mechanical CAD [Scott Liddle, <a href="https://blurpd.com">BlurPD</a>]</td>
-<td>Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-05">Milestone 05</a></td>
 </tr>
 
 <tr>
@@ -168,7 +167,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Mon Nov 12</td>
 <td>Lab Time</td>
-<td>Final Mechanical Design (3D Print / Machine) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-06">Milestone 06</a>]</td>
+<td><a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-05">Milestone 05</a> (Due: 11/18)</td>
 </tr>
 
 <tr>
@@ -204,7 +203,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Thurs Nov 29</td>
 <td>Dry runs</td>
-<td>Draft of presentation</td>
+<td>Final Mechanical Design (3D Print / Machine) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-06">Milestone 06</a>]</td>
 </tr>
 
 <tr>
@@ -223,7 +222,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Tues Dec 12</td>
 <td><b>BME Design Symposium</b> <i>See associated Sakai assignment.</i></td>
-<td><b>Final light project due</b> (<a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-07">Milestone 07</a>, before symposium).</td>
+<td><b>Prototyping Skills Project Due</b> (<a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-07">Milestone 07</a>, before symposium).</td>
 </tr>
 
 <table>
