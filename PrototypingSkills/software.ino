@@ -36,14 +36,19 @@ void set_pwm_based_on_operating_mode() {
     switch (operating_mode) {
         case 0:
             PWM_OUT = 0;
+            break;
         case 1:
             PWM_OUT = PWM_MAX;
+            break;
         case 2:
             PWN_OUT = int(PWM_MAX/2);
+            break;
         case 3:
             PWN_OUT = int(PWM_MAX/4);
+            break;
         case 4:
             flash_the_light();
+            break;
     }
 
 }
