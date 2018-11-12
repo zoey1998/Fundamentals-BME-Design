@@ -57,6 +57,12 @@
   etc.
 * Check design rules for warnings and errors.
 
-## Resources
-* https://www.youtube.com/watch?v=1AXwjZoyNno&t=397s
-* https://www.youtube.com/watch?v=CCTs0mNXY24
+## Online Resources
+* **How to make a schematic:** https://www.youtube.com/watch?v=1AXwjZoyNno&t=1460s
+* **How to create a PCB:** https://www.youtube.com/watch?v=CCTs0mNXY24
+* **How to make Gerber files/DRC/etc:** https://www.youtube.com/watch?v=oId-h6AeXXE
+* **Tutorial for Arduino Shield in Eagle:** https://www.open-electronics.org/how-to-make-an-arduino-shield-with-eagle-cad-tutorial/
+* **Video Tutorial for Arduino Shield in Eagle (3 parts):**
+    1.https://www.youtube.com/watch?v=_NjZxK3acMs
+    2.https://www.youtube.com/watch?v=1bvSb_u0Pms&t=13s
+    3.https://www.youtube.com/watch?v=ZS4cAgg-qQw
