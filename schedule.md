@@ -202,20 +202,20 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Nov 29</td>
-<td>Dry runs</td>
+<td>Individual Group Meetings</td>
 <td>Final Mechanical Design (3D Print / Machine) [Sakai: <a href="https://github.com/mlp6/Fundamentals-BME-Design/blob/master/PrototypingSkills/milestones.md#milestone-06">Milestone 06</a>]</td>
 </tr>
 
 <tr>
 <td>Tues Dec 04</td>
-<td>Cycle 2 Concept Evaluations, part 1</td>
+<td>Individual Group Meetings</td>
 <td></td>
 </tr>
 
 <tr>
 <td>Thurs Dec 06</td>
-<td>Cycle 2 Concept Evaluations, part 2</td>
-<td><b>Cycle 2 Documentation Due</b></td>
+<td>Individual Group Meetings</td>
+<td><b>Cycle 2 Documentation Due, Final Semester Design Presentations will be schedule with each team</b></td>
 </td>
 </tr>
 
