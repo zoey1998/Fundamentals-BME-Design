@@ -178,8 +178,8 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Thurs Nov 15</td>
+<td>ECAD Schematic/PCB Office Hours (Lecture Room)</td>
 <td>Individual Group Meetings</td>
-<td></td>
 </tr>
 
 <tr>
