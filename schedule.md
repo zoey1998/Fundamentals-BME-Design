@@ -196,7 +196,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Nov 27</td>
-<td>Presenting concepts and prototypes (evaluation prep)</td>
+<td>Expectations for final presentation and documentation</td>
 <td></td>
 </tr>
 
