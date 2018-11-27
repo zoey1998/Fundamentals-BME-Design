@@ -196,7 +196,7 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Tues Nov 27</td>
-<td>Expectations for final presentation and documentation</td>
+<td>Expectations for <a href= "Assignments/Fall Design Review and Documentation.pdf">Final Documentation</a> and <a href= "Assignments/Fall Design Review Assessment PDF.pdf">Final Presentation</a></td>
 <td></td>
 </tr>
 
