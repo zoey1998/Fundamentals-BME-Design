@@ -51,6 +51,11 @@
   + Drill width (20 mil)
   + Clearance (12 mil)
   + These parameters are based on fabrication resolution, power, interference, etc.
+* Single sided boards are far easier to fabricate than double sided boards. Use a double sided board only when complexity or noise immunity requires it. 
+* Since our holes/vias are not plated through, consider this when routing.
+  + Single sided boards with through-hole components should have copper on the bottom side and components on the top side. 
+  + Large packages, such as switches and DIPs ("chips") make it very difficult to solder on the component side. Consider routing only to the bottom side to connect to these large packages.
+* Single sided boards can have surface mount components on the "bottom" and through-hole components on the "top". 
 * Set auto-routing rules, run auto-router, and fix remaining issues (vias,
   connecting GND planes, etc.)
 * Adjust individual hole diameters, trace widths, route underneath components,
