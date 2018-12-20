@@ -1,2 +1,5 @@
 "P/N","Description"
 7400, Quad 2-in NAND
+7401, Quad 2-in NAND OC out
+7402, Quad 2-in NOR
+7404, Hex Inverter
