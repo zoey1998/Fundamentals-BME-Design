@@ -44,9 +44,9 @@
 7496, 5-bit parallel inout shift register
 74100, Dual 4-bit bistable latch
 74116, Dual 4-bit 
-74120,
-74121,
-74123,
+74120, Dual pulse synch/driver, 15k pullup
+74121, monostable multivibrator, schmitt trigger
+74123, Dual retriggerable monotstable multivibrator
 74125,
 74126,
 74138,
