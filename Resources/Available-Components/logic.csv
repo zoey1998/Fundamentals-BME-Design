@@ -47,42 +47,40 @@
 74120, Dual pulse synch/driver, 15k pullup
 74121, monostable multivibrator, schmitt trigger
 74123, Dual retriggerable monotstable multivibrator
-74125,
-74126,
-74138,
-74139,
-74145,
-74148,
-74151,
-74153,
-74154,
-74155,
-74156,
-74157,
-74158,
-74161,
-74162,
-74165,
-74173,
-74174,
-74175,
-74181,
-74193,
-74195,
-74197,
-74199,
-74221,
-74240,
-74241,
-74243,
-74245,
-74266,
-74273,
-74283,
-74296,
-74239,
-74373,
-74374,
-74367,
-74670,
-75138,
+74125, Quad bus buffer, negative enable tri-state out
+74126, Quad bus buffer, positive enable, tristate out
+74138, 3-line to 80line decoder/demux invert out
+74139, Dual 2-line to 4-line decoder/demux, invert out
+74145, BCD to decimal decode/driver OC out 15V/08mA
+74148, 8-line to 3-line priority encoder
+74151, 8-line to 1-line data selector/mux invert out
+74153, dual 4-line to 1-line data selector/multiplexer, non-inverting outputs 
+74154, 4-line to 16-line decoder/demultiplexer, inverting outputs 
+74155, dual 2-line to 4-line decoder/demultiplexer, inverting outputs 
+74156, dual 2-line to 4-line decoder/demultiplexer, inverting outputs OC out
+74157, quad 2-line to 1-line data selector/multiplexer, non-inverting outputs 
+74158, quad 2-line to 1-line data selector/multiplexer, inverting outputs 
+74161, synchronous presettable 4-bit binary counter, asynchronous clear 
+74162, synchronous presettable 4-bit decade counter, synchronous clear 
+74165, 8-bit serial shift register, parallel load, complementary outputs 
+74173, quad D flip-flop, asynchronous clear 
+74174, hex D flip-flop, common asynchronous clear 
+74175, quad D edge-triggered flip-flop, complementary outputs and asynchronous clear 
+74181, 4-bit arithmetic logic unit and function generator 
+74193, synchronous presettable up/down 4-bit binary counter, clear 
+74195, 4-bit parallel-access shift register 
+74197, presettable binary counter/latch 
+74199, 8-bit universal shift register, J-Not-K serial inputs 
+74221, dual monostable multivibrator
+74239, dual 2-of-4 decoder/demultiplexer, active high outputs 
+74240, octal buffer, inverting outputs schmitt trigger in tristate out
+74241, octal buffer, non-inverting outputs schmitt trigger in tristate out
+74243, quad bus transceiver, non-inverting outputs  schmitt trigger in tristate out
+74245, octal bus transceiver, non-inverting outputs  schmitt trigger in tristate out
+74266, quad 2-input XNOR gate OC out
+74273, 8-bit register, asynchronous clear 
+74283, 4-bit binary full adder (has carry in function) 
+74367, hex buffer, non-inverting outputs tristate out
+74373,  octal transparent latch tristate out
+74374, octal register tristate out
+74670, 16-bit address comparator, latch 
