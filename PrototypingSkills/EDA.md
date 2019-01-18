@@ -7,6 +7,8 @@
 * Custom parts can be defined, but very cumbersome.
 * Part libraries can also include 3D CAD definitions for integration in 3D
   renderings of boards with parts.
+* Remember you may need to use a wildcard character (`*`) when searching for
+  parts.
 
 ## Parts
 * Good practice to place all parts on the schematic before trying to connect
@@ -21,9 +23,12 @@
   without lots of crossing connections.
 * Net connection tricks above keep the schematics clean and readable, but all
   connections are preserved when laying out your board.
+* Buses are collections of nets, used to organize connections that run together
+  (primarily to aid visualization).
 
 ## Miscellaneous
 * Use scripts / macros to renumber components throughout the project, etc.
+* Use `ERC`!
 * Create Bill of Materials for all parts.
 
 ## Creating a Board
