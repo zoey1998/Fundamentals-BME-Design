@@ -20,12 +20,14 @@
   * Block diagrams
   * Logic flow diagrams
   * Free for academic use
-* [mindmeister](https://www.mindmeister.com)
+* [MindMeister](https://www.mindmeister.com)
   * Brainstorming
   * Mindmaps
   * Flowcharts
   * Block diagrams
   * Duke-licensed
+* [MindMuP](https://mindmup.com)
+* [MindManager](https://www.mindjet.com/mindmanager/)
 * [Inkscape](https://inkscape.org/)
 * Microsoft PowerPoint
 * LibreOffice Draw
