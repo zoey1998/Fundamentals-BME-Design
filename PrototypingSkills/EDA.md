@@ -34,7 +34,7 @@
 ## Creating a Board
 * Parts and airwire (electrical placeholder) connections are imported from
   schematic.
-* Make sure that you set [Design Rules](../Resouces/BME_in_house.dru)
+* Make sure that you set [Design Rules](../Resources/BME_in_house.dru)
 * Manually place components on the board, remember to rotate and orient
   components for an efficient layout, and group things to move them in bulk.
   *Board layout is an art form.*
