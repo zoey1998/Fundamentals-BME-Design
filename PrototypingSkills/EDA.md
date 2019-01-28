@@ -32,12 +32,28 @@
 * Create Bill of Materials for all parts.
 
 ## Creating a Board
+* Create board from schematic so they are *linked*.
+* Make sure that you set [Design Rules](../Resources/BME_in_house.dru) (`Edit -> Design Rules...`)
+  + Trace width (12 mil)
+  + Drill width (20 mil)
+  + Clearance (12 mil)
+  + These parameters are based on fabrication resolution, power, interference,
+    etc.
+* Change to `Single Layer Mode` (if single layer)
+  + Single sided boards are far easier to fabricate than double sided boards.
+  + Use a double sided board only when complexity or noise immunity requires
+  it.
+  + Single sided boards can have surface mount components on the "bottom" and
+  through-hole components on the "top".
+  + Design to solder thru-hole components on the "bottom" (other side of the
+  board from the component body).
+* Set the board's physical dimensions.
 * Parts and airwire (electrical placeholder) connections are imported from
   schematic.
-* Make sure that you set [Design Rules](../Resources/BME_in_house.dru)
 * Manually place components on the board, remember to rotate and orient
   components for an efficient layout, and group things to move them in bulk.
   *Board layout is an art form.*
+* Use the `Ratsnest` button to clean up airwires.
 * Vias: connections between top and bottom layers of a board.  We are dealing
   with either single- or double-sided boards.
 * Layers: 
@@ -49,33 +65,12 @@
     silkscreens
   + `Holes`: mounting points, etc.
   + Lots of other layers used for board fabrication
-* Set board's physical dimensions
-* Use `Ratsnest` to reduce airwire segment lengths.
 * Make large ground planes for easy connections, noise rejection and heat
   dissipation.
   + Create a shape that outlines this plane.
   + Name the object `GND`, which will connect it to the `GND` net.
-* Set netclass parameters (these should default to your `Design Rules`):
-  + Trace width (12 mil)
-  + Drill width (20 mil)
-  + Clearance (12 mil)
-  + These parameters are based on fabrication resolution, power, interference,
-    etc.
-* Single sided boards are far easier to fabricate than double sided boards. Use
-  a double sided board only when complexity or noise immunity requires it. 
-* Since our holes/vias are not plated through, consider this when routing.
-  + Single sided boards with through-hole components should have copper on the
-    bottom side and components on the top side. 
-  + Large packages, such as switches and DIPs ("chips") make it very difficult
-    to solder on the component side. Consider routing only to the bottom side
-    to connect to these large packages.
-* Single sided boards can have surface mount components on the "bottom" and
-  through-hole components on the "top". 
-* Set auto-routing rules, run auto-router, and fix remaining issues (vias,
-  connecting GND planes, etc.)
-* Adjust individual hole diameters, trace widths, route underneath components,
-  etc.
 * Check design rules for warnings and errors.
+* Create shapes for mounting holes, connections to enclosures, etc.
 
 ## Online Resources
 * **How to make a schematic:** https://www.youtube.com/watch?v=1AXwjZoyNno&t=1460s
