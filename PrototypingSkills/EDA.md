@@ -46,7 +46,8 @@
   + Single sided boards can have surface mount components on the "bottom" and
   through-hole components on the "top".
   + Design to solder thru-hole components on the "bottom" (other side of the
-  board from the component body).
+  board from the component body). You can move components to the other side
+  of the board with the `Mirror` function.
 * Set the board's physical dimensions.
 * Parts and airwire (electrical placeholder) connections are imported from
   schematic.
